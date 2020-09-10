@@ -30,6 +30,7 @@ Para que funcione tienen que montar un servidor de DB motor MySQL (se recomienda
 
 Las instrucciones de como funciona cada parte se encuentran comentadas en el código para un mejor seguimiento, cualquier duda que tengan respecto al funcionamiento les pido por favor que creen un Issue comentandolo ya que a otros les puede servir la respuesta.
 
+Gracias a [@franpassa](https://github.com/franpassa) por conseguir una base de todo esto que funcione...
 
 ### Fuentes
 
