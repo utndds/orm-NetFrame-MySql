@@ -3,7 +3,7 @@
 
 Hay muchas cosas por explicar que tratare de resumirlas en este documento.
 
-Primero el proyecto es una aplicación consola hecha con .NET Framework (si el proyecto de ustedes es .NET Core difiere en los paquetes a instalar y por ende en algunos métodos y configuraciones).
+Primero el proyecto es una aplicación consola hecha con .NET Framework (si el proyecto de ustedes es .NET Core difiere en los paquetes a instalar y por ende en algunos métodos y configuraciones). Para .NET Core usen este [repo de guía](https://github.com/cd-educ/orm-NetCore-MySQL)
 
 Tambien hay que distinguir que existen los ORM y los módulos de conexión a bases de datos, siendo que en este ejemplo (.NET Core) estamos usando los <ins>paquetes Nugget:</ins>
 
