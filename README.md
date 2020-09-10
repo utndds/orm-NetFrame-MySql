@@ -33,7 +33,6 @@ Las instrucciones de como funciona cada parte se encuentran comentadas en el có
 
 ### Fuentes
 
-- Para proyecto .NET Framework<br>
 [Tutorial inicial de Entity Framework 6](https://www.entityframeworktutorial.net/code-first/what-is-code-first.aspx)<br>
 [Entity Framework 6 con MySQL](https://dev.mysql.com/doc/connector-net/en/connector-net-entityframework60.html)<br>
 [Documentacion posta de EF6](https://docs.microsoft.com/en-us/ef/ef6/)
